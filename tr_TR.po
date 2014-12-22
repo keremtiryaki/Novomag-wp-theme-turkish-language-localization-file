@@ -1,0 +1,1804 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Novomag\n"
+"POT-Creation-Date: 2014-04-11 12:52+0200\n"
+"PO-Revision-Date: 2014-12-22 21:19+0200\n"
+"Last-Translator: kerem <kerem@nomail.xl.cx>\n"
+"Language-Team: Orange Themes <support@orange-themes.com>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.1\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:26 404.php:30
+msgid "Error 404"
+msgstr "Hata 404"
+
+#: 404.php:28
+msgid "Back To Homepage"
+msgstr "Anasayfa"
+
+#: 404.php:31
+msgid "Page Not Found"
+msgstr "Sayfa bulunamadı"
+
+#: 404.php:32
+#, php-format
+msgid ""
+"No worries, page just doesn't exist.<br/>Please navigate to <a href=\"%1$s"
+"\"><strong>homepage</strong></a> or any other existing page."
+msgstr ""
+"Taşınmış ya da silinmiş bir içeriğe ulaşmaya çalıştınız. <br/> <a href=\"%1$s"
+"\"><strong>Anasayfa</strong></a>"
+
+#: comments.php:6
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Bu içerik parola korumalıdır. Yorumları görmek için parolayı girin"
+
+#: comments.php:21 includes/widgets/widget-novomag-triple.php:113
+msgid "Comments"
+msgstr "Yorumlar"
+
+#: comments.php:25 comments.php:52
+msgid "Write a Comment"
+msgstr "Yorum yazın"
+
+#: comments.php:49
+#, php-format
+msgid "Only <a href=\"%1$s\"> registered </a> users can comment."
+msgstr "Sadece <a href=\"%1$s\"> kayıtlı </a> kullanıcılar yorum yapabilir."
+
+#: comments.php:59
+msgid "Comment"
+msgstr "Yorum"
+
+#: comments.php:59
+msgid "Your message.."
+msgstr "Mesajlar"
+
+#: comments.php:67
+msgid "Post a Comment"
+msgstr "Yorum gönder"
+
+#: footer.php:73
+msgid "Theme by"
+msgstr "Tema"
+
+#: footer.php:109 includes/_lightbox-gallery.php:3
+msgid "Close Window"
+msgstr "Kapat"
+
+#: footer.php:111
+msgid "Loading, Please Wait!"
+msgstr "Yükleniyor, lütfen bekleyin"
+
+#: footer.php:112
+msgid "This may take a second or two."
+msgstr "Bu işlem birkaç saniye sürebilir"
+
+#: footer.php:113
+msgid "Loading"
+msgstr "Yükleniyor"
+
+#: header.php:43
+#, php-format
+msgid "%s latest posts"
+msgstr "Son %s yazı"
+
+#: header.php:44
+#, php-format
+msgid "%s latest comments"
+msgstr "Son %s yorum"
+
+#: searchform.php:7
+msgid "Search for:"
+msgstr "Ara"
+
+#: searchform.php:8
+msgid "search here"
+msgstr "Burada ara"
+
+#: searchform.php:9
+msgid "Search"
+msgstr "Ara"
+
+#: template-contact.php:39
+msgid "Success!"
+msgstr "işlem tamamlandı!"
+
+#: template-contact.php:49 template-contact.php:50 functions/filters.php:187
+msgid "Nickname"
+msgstr "Kullanıcı adı"
+
+#: template-contact.php:54 template-contact.php:55 functions/filters.php:188
+msgid "E-mail"
+msgstr "E-mail"
+
+#: template-contact.php:60 functions/filters.php:189
+msgid "Website"
+msgstr ""
+
+#: template-contact.php:63 template-contact.php:64
+msgid "Your message"
+msgstr "Mesajınız"
+
+#: template-contact.php:68
+msgid "Send a Message"
+msgstr "Mesaj Gönder"
+
+#: template-contact.php:79 includes/gallery-single-style-1.php:86
+#: includes/news-single.php:235 includes/page-single.php:17
+msgid "Sorry, no posts matched your criteria."
+msgstr "Kriterlerinize uygun içerik bulunamadı"
+
+#: template-gallery.php:48
+msgid "All Categories"
+msgstr "Tüm Kategoriler"
+
+#: template-gallery.php:112
+msgid "No galleries were found"
+msgstr "Galeri bulunamadı"
+
+#: template-homepage.php:84 functions/other.php:362 functions/other.php:399
+#: includes/sliders/breaking-news.php:54
+#: includes/widgets/widget-novomag-latest-posts.php:126
+#: includes/widgets/widget-novomag-popular-posts.php:124
+#: includes/widgets/widget-novomag-reviews.php:139
+#: includes/widgets/widget-novomag-triple.php:177
+#: includes/widgets/widget-novomag-triple.php:218
+msgid "No posts where found"
+msgstr "ıçerik bulunamadı"
+
+#: functions/ajax.php:321
+msgid "From"
+msgstr "Kimden"
+
+#: functions/ajax.php:321
+msgid "Contact Page"
+msgstr "iletişim Sayfası"
+
+#: functions/ajax.php:334
+msgid "Message:"
+msgstr "Mesaj:"
+
+#: functions/ajax.php:336
+msgid "Name:"
+msgstr "Ad:"
+
+#: functions/ajax.php:337
+msgid "Url:"
+msgstr "Url:"
+
+#: functions/ajax.php:338
+msgid "E-mail:"
+msgstr "E-mail:"
+
+#: functions/ajax.php:339
+msgid "IP Address:"
+msgstr "IP Adresi:"
+
+#: functions/custom-admin-menu.php:116
+#, php-format
+msgid "%s (Invalid)"
+msgstr "%s (Geçersiz)"
+
+#: functions/custom-admin-menu.php:120
+#, php-format
+msgid "%s (Pending)"
+msgstr "%s (Beklemede)"
+
+#: functions/custom-admin-menu.php:161
+msgid "Edit Menu Item"
+msgstr "Menü Öğelerini Düzenle"
+
+#: functions/custom-admin-menu.php:170
+msgid "URL"
+msgstr "URL"
+
+#: functions/custom-admin-menu.php:177
+msgid "Navigation Label"
+msgstr "Navigasyon Sırası"
+
+#: functions/custom-admin-menu.php:183
+msgid "Title Attribute"
+msgstr "Başlık Ver"
+
+#: functions/custom-admin-menu.php:190
+msgid "Open link in a new window/tab"
+msgstr "Bağlantıyı yeni sekmede aç"
+
+#: functions/custom-admin-menu.php:195
+msgid "CSS Classes (optional)"
+msgstr "CSS Classes (optional)"
+
+#: functions/custom-admin-menu.php:201
+msgid "Link Relationship (XFN)"
+msgstr "Link Relationship (XFN)"
+
+#: functions/custom-admin-menu.php:207
+msgid "Description"
+msgstr "Tanım"
+
+#: functions/custom-admin-menu.php:209
+msgid ""
+"The description will be displayed in the menu if the current theme supports it."
+msgstr "Bu tanım eğer mevcut tema destekliyorsa menüde gösterilecek"
+
+#: functions/custom-admin-menu.php:221
+msgid "Show The Color Line In Main Menu Parent Item (Only Pages/Categories)"
+msgstr "Show The Color Line In Main Menu Parent Item (Only Pages/Categories)"
+
+#: functions/custom-admin-menu.php:226
+msgid ""
+"Main menu type ( only menu parent item, more info <a href=\"http://novomag.orange-"
+"themes.com/documentation/#mega-menu\" target=\"_blank\">here</a> )"
+msgstr ""
+
+#: functions/custom-admin-menu.php:228 includes/theme-config.php:1517
+msgid "Default"
+msgstr "Varsayılan"
+
+#: functions/custom-admin-menu.php:229
+msgid "Mega Menu"
+msgstr "Mega Menu"
+
+#: functions/custom-admin-menu.php:243
+#, php-format
+msgid "Original: %s"
+msgstr "Orijinal: %s"
+
+#: functions/custom-admin-menu.php:256
+#: functions/tax-meta-class/tax-meta-class.php:583
+#: functions/tax-meta-class/tax-meta-class.php:630
+msgid "Remove"
+msgstr "Kaldır"
+
+#: functions/custom-admin-menu.php:257
+msgid "Cancel"
+msgstr "ıptal"
+
+#: functions/drag-drop.php:13
+msgid "Homepage Blocks:"
+msgstr "Homepage Blocks:"
+
+#: functions/drag-drop.php:17
+msgid "Latest News Blocks"
+msgstr "En Yeniler"
+
+#: functions/drag-drop.php:20
+msgid "Two news blocks."
+msgstr "En Yeniler"
+
+#: functions/drag-drop.php:22 functions/drag-drop.php:130
+msgid "Block 1"
+msgstr "Block 1"
+
+#: functions/drag-drop.php:24 functions/drag-drop.php:37 functions/drag-drop.php:56
+#: functions/drag-drop.php:76 functions/drag-drop.php:96 functions/drag-drop.php:132
+#: functions/drag-drop.php:151 functions/drag-drop.php:176
+#: functions/drag-drop.php:203 includes/widgets/widget-ad300x250.php:120
+#: includes/widgets/widget-novomag-about.php:26
+#: includes/widgets/widget-novomag-aweber.php:65
+#: includes/widgets/widget-novomag-gallery.php:21
+#: includes/widgets/widget-novomag-latest-posts.php:23
+#: includes/widgets/widget-novomag-popular-posts.php:23
+#: includes/widgets/widget-novomag-reviews.php:25
+msgid "Title:"
+msgstr "Başlık:"
+
+#: functions/drag-drop.php:25 functions/drag-drop.php:38 functions/drag-drop.php:57
+#: functions/drag-drop.php:77 functions/drag-drop.php:133 functions/drag-drop.php:152
+#: functions/drag-drop.php:177 functions/drag-drop.php:204
+msgid "Count:"
+msgstr "Count:"
+
+#: functions/drag-drop.php:33 functions/drag-drop.php:46 functions/drag-drop.php:65
+#: functions/drag-drop.php:85 functions/drag-drop.php:104 functions/drag-drop.php:141
+#: functions/drag-drop.php:160 functions/drag-drop.php:185
+#: functions/drag-drop.php:212
+msgid ""
+"From which post should start the loop (for example 4 ), for default leave it empty, "
+"or add 0. (Offset):"
+msgstr ""
+"From which post should start the loop (for example 4 ), for default leave it empty, "
+"or add 0. (Offset):"
+
+#: functions/drag-drop.php:35 functions/drag-drop.php:149
+msgid "Block 2"
+msgstr "Block 2"
+
+#: functions/drag-drop.php:51
+msgid "Latest News Style 2"
+msgstr "Latest News Style 2"
+
+#: functions/drag-drop.php:54
+msgid "One news block."
+msgstr "One news block"
+
+#: functions/drag-drop.php:71
+msgid "Latest News Style 3"
+msgstr "Latest News Style 3"
+
+#: functions/drag-drop.php:74
+msgid "Post carousel."
+msgstr "Post carousel"
+
+#: functions/drag-drop.php:82 functions/drag-drop.php:99
+msgid "Set Category"
+msgstr "Set Category"
+
+#: functions/drag-drop.php:91 includes/widgets/widget-novomag-reviews.php:6
+#: includes/widgets/widget-novomag-reviews.php:12
+msgid "Reviews"
+msgstr "Reviews"
+
+#: functions/drag-drop.php:94
+msgid "Latest/Top reviews."
+msgstr "En yeni incelemeler"
+
+#: functions/drag-drop.php:107 includes/news-single.php:24
+#: includes/widgets/widget-novomag-reviews.php:46
+msgid "Type:"
+msgstr "Type:"
+
+#: functions/drag-drop.php:110 includes/widgets/widget-novomag-reviews.php:48
+msgid "Latest Reviews"
+msgstr "Son ıncelemeler"
+
+#: functions/drag-drop.php:111 includes/widgets/widget-novomag-reviews.php:49
+msgid "Top Reviews"
+msgstr "En Çok Okunan ıncelemeler"
+
+#: functions/drag-drop.php:118 functions/drag-drop.php:145
+#: functions/drag-drop.php:164 functions/drag-drop.php:189
+#: functions/drag-drop.php:217 includes/admin/style.php:95
+#: includes/admin/style.php:138
+msgid "Color:"
+msgstr "Renk:"
+
+#: functions/drag-drop.php:125
+msgid "Popular News"
+msgstr "Popüler"
+
+#: functions/drag-drop.php:128
+msgid "Two popular news blocks."
+msgstr "Popüler"
+
+#: functions/drag-drop.php:171
+msgid "Popular News Style 2"
+msgstr "Popüler"
+
+#: functions/drag-drop.php:174
+msgid "One popular news block."
+msgstr "Popüler"
+
+#: functions/drag-drop.php:198
+msgid "Popular News Style 3"
+msgstr "Popüler"
+
+#: functions/drag-drop.php:201
+msgid "Popular post carousel."
+msgstr "Popüler Galeri"
+
+#: functions/drag-drop.php:228
+msgid "Custom HTML/Shortcodes Block"
+msgstr "Custom HTML/Shortcodes Block"
+
+#: functions/drag-drop.php:230 functions/drag-drop.php:239
+msgid "HTML Code:"
+msgstr "HTML Code:"
+
+#: functions/drag-drop.php:237
+msgid "Supports HTML,CSS and Javascript."
+msgstr "Supports HTML, CSS and Javascript"
+
+#: functions/filters.php:199
+msgid "Your e-mail address will not be published."
+msgstr "E-mail adresiniz yayınlanmayacak."
+
+#: functions/filters.php:199
+msgid "Required fields are marked"
+msgstr "ışaretli alanların doldurulması zorunludur"
+
+#: functions/filters.php:226
+msgid "by "
+msgstr "Yazar"
+
+#: functions/nav.php:95
+msgid "Previous"
+msgstr "Önceki"
+
+#: functions/novomag-menu.php:13
+msgid "Settings"
+msgstr "Ayarlar"
+
+#: functions/novomag-menu.php:26
+msgid "General"
+msgstr "Genel"
+
+#: functions/novomag-menu.php:33
+msgid "Post/Page Settings"
+msgstr "Post/Page Settings"
+
+#: functions/novomag-menu.php:39 functions/novomag-menu.php:579
+msgid "Sidebar"
+msgstr "Sidebar"
+
+#: functions/novomag-menu.php:58
+msgid "Blog Style"
+msgstr "Blog Style"
+
+#: functions/novomag-menu.php:65
+msgid "Style 1:"
+msgstr "Style 1:"
+
+#: functions/novomag-menu.php:66
+msgid "Style 2:"
+msgstr "Style 2:"
+
+#: functions/novomag-menu.php:84
+msgid "Share Buttons"
+msgstr "Paylaş Butonları"
+
+#: functions/novomag-menu.php:92 functions/novomag-menu.php:122
+#: functions/novomag-menu.php:194 functions/novomag-menu.php:220
+#: functions/novomag-menu.php:246 functions/novomag-menu.php:272
+#: functions/novomag-menu.php:298 functions/novomag-menu.php:378
+#: functions/novomag-menu.php:389 includes/admin/general.php:176
+#: includes/admin/general.php:198 includes/admin/general.php:220
+#: includes/admin/general.php:242
+msgid "Show:"
+msgstr "Göster:"
+
+#: functions/novomag-menu.php:93 functions/novomag-menu.php:123
+#: functions/novomag-menu.php:195 functions/novomag-menu.php:221
+#: functions/novomag-menu.php:247 functions/novomag-menu.php:273
+#: functions/novomag-menu.php:299 includes/admin/general.php:177
+#: includes/admin/general.php:199 includes/admin/general.php:221
+#: includes/admin/general.php:243
+msgid "Hide:"
+msgstr "Gizle:"
+
+#: functions/novomag-menu.php:114
+msgid "Show Image In Single Post / News Page"
+msgstr "Show Image In Single Post / News Page"
+
+#: functions/novomag-menu.php:143
+msgid "Page Title Color"
+msgstr "Page Title Color"
+
+#: functions/novomag-menu.php:148
+msgid "Color"
+msgstr "Color"
+
+#: functions/novomag-menu.php:164
+msgid "Show Breaking News Slider?"
+msgstr "Show Breaking News Slider?"
+
+#: functions/novomag-menu.php:169
+msgid "Set Breaking News Slider Categories"
+msgstr "Set Breaking News Slider Categories"
+
+#: functions/novomag-menu.php:187
+msgid "Post Author Buttons"
+msgstr "Post Author Buttons"
+
+#: functions/novomag-menu.php:213
+msgid "Post Date"
+msgstr "Yayınlanma Tarihi"
+
+#: functions/novomag-menu.php:239
+msgid "Post Categories"
+msgstr "Kategori"
+
+#: functions/novomag-menu.php:265
+msgid "\"About Author\" Block In Post"
+msgstr "\"Yazar Hakkında\" Block In Post"
+
+#: functions/novomag-menu.php:291
+msgid "\"Similar News\" Block In Post"
+msgstr "\"Benzer Yazılar\" Block In Post"
+
+#: functions/novomag-menu.php:316
+msgid "Post Style In Listing Page (only with blog style 2)"
+msgstr "Post Style In Listing Page (only with blog style 2)"
+
+#: functions/novomag-menu.php:323
+msgid "Dark:"
+msgstr "Dark:"
+
+#: functions/novomag-menu.php:324
+msgid "Light:"
+msgstr "Light:"
+
+#: functions/novomag-menu.php:340
+msgid "Show Homepage Main Slider?"
+msgstr "Show Homepage Main Slider?"
+
+#: functions/novomag-menu.php:345
+msgid "Show"
+msgstr "Göster"
+
+#: functions/novomag-menu.php:373
+msgid "Show This Post In Breaking News Slider?"
+msgstr "Show This Post In Breaking News Slider?"
+
+#: functions/novomag-menu.php:384
+msgid "Show This Post In Main Slider?"
+msgstr "Show This Post In Main Slider?"
+
+#: functions/novomag-menu.php:405
+msgid "Show Title in Single View?"
+msgstr "Show Title in Single View?"
+
+#: functions/novomag-menu.php:413
+msgid "Yes:"
+msgstr "Yes:"
+
+#: functions/novomag-menu.php:414
+msgid "No:"
+msgstr "No:"
+
+#: functions/novomag-menu.php:432
+msgid "Review Settings"
+msgstr "Review Settings"
+
+#: functions/novomag-menu.php:437
+msgid "Release Date"
+msgstr "Yayınlanma Tarihi"
+
+#: functions/novomag-menu.php:444
+msgid "Pros"
+msgstr "Artılar"
+
+#: functions/novomag-menu.php:451
+msgid "Cons"
+msgstr "Eksiler"
+
+#: functions/novomag-menu.php:458
+msgid "Conclusion"
+msgstr "Sonuç"
+
+#: functions/novomag-menu.php:464
+msgid "Ratings"
+msgstr "Puanlama"
+
+#: functions/novomag-menu.php:466
+msgid "Enter the ratings like this - Graphics:5; Gameplay:4,5; Sound:3; Storyline:4"
+msgstr "Enter the ratings like this - Graphics:5; Gmeplay:4,5; Sound:3; Storyline:4"
+
+#: functions/novomag-menu.php:480
+msgid "Contact Page Email"
+msgstr "E-Mail"
+
+#: functions/novomag-menu.php:485
+msgid "Email:"
+msgstr "E-Mail"
+
+#: functions/novomag-menu.php:500
+msgid "Contact Page Google Map"
+msgstr "Contact Page Google Map"
+
+#: functions/novomag-menu.php:505
+msgid "Map Url:"
+msgstr "Map Url:"
+
+#: functions/novomag-menu.php:522
+msgid "Gallery Style"
+msgstr "Gallery Style"
+
+#: functions/novomag-menu.php:531
+msgid "Default:"
+msgstr "Varsayılan:"
+
+#: functions/novomag-menu.php:532
+msgid "Lightbox:"
+msgstr "Lightbox:"
+
+#: functions/novomag-menu.php:561
+msgid "Sidebar Side"
+msgstr "Sidebar Side"
+
+#: functions/novomag-menu.php:567
+msgid "Right:"
+msgstr "Right:"
+
+#: functions/novomag-menu.php:568
+msgid "Left:"
+msgstr "Left:"
+
+#: functions/novomag-menu.php:575
+msgid "Sidebar Name"
+msgstr "Sidebar Name"
+
+#: functions/novomag-menu.php:611
+msgid "Post Custom Settings"
+msgstr "Post Custom Settings"
+
+#: functions/novomag-menu.php:700
+msgid "Security check"
+msgstr "Güvenlik kontrolü"
+
+#: functions/novomag-menu.php:756
+msgid "Main Slider Image"
+msgstr "Main Slider Image"
+
+#: functions/novomag-menu.php:756 includes/widgets/widget-novomag-about.php:28
+msgid "Image:"
+msgstr "Image:"
+
+#: functions/novomag-menu.php:760
+msgid "Gallery Images"
+msgstr "Gallery Images"
+
+#: functions/novomag-menu.php:768
+msgid "Homepage Builder"
+msgstr "Homepage Builder"
+
+#: functions/other.php:57
+msgid "Category Breaking News Slider "
+msgstr "Category Breaking News Slider "
+
+#: functions/other.php:58
+msgid "Main Sidebar Position "
+msgstr "Main Sidebar Position "
+
+#: functions/other.php:59
+msgid "Main Sidebar"
+msgstr "Main Sidebar"
+
+#: functions/other.php:61
+msgid "Style 1"
+msgstr "Style 1"
+
+#: functions/other.php:61
+msgid "Style 2"
+msgstr "Style 2"
+
+#: functions/other.php:61
+msgid "Category Style "
+msgstr "Category Style "
+
+#: functions/other.php:103
+msgid "Last Update: "
+msgstr "Son Güncelleme: "
+
+#: functions/other.php:103
+msgid "Updated"
+msgstr "Güncellendi"
+
+#: functions/other.php:366 functions/other.php:403
+msgid "Please Insert A category"
+msgstr "Please Insert A category"
+
+#: functions/other.php:1133 functions/other.php:1193
+msgid "Delete image"
+msgstr "Resmi sil"
+
+#: functions/other.php:1133 functions/other.php:1193
+#: functions/tax-meta-class/tax-meta-class.php:250
+#: functions/tax-meta-class/tax-meta-class.php:883 includes/theme-config.php:595
+msgid "Delete"
+msgstr "Sil"
+
+#: functions/other.php:1144
+msgid "Add images"
+msgstr "Resim ekle"
+
+#: functions/other.php:1170
+msgid "Add Images to Product Gallery"
+msgstr "Add Images to Product Gallery"
+
+#: functions/other.php:1172
+msgid "Add to gallery"
+msgstr "Galeriye ekle"
+
+#: functions/other.php:1432
+msgid "Moderate or heavy snow in area with thunder"
+msgstr "Moderate or heavy snow in area with thunder"
+
+#: functions/other.php:1436
+msgid "Patchy light snow in area with thunder"
+msgstr "Patchy light snow in area with thunder"
+
+#: functions/other.php:1440
+msgid "Moderate or heavy snow showers"
+msgstr "Moderate or heavy snow showers"
+
+#: functions/other.php:1444
+msgid "Light snow showers"
+msgstr "Light snow showers"
+
+#: functions/other.php:1448
+msgid "Ice pellets"
+msgstr "Ice pellets"
+
+#: functions/other.php:1452
+msgid "Heavy snow"
+msgstr "Heavy snow"
+
+#: functions/other.php:1456
+msgid "Patchy heavy snow"
+msgstr "Patchy heavy snow"
+
+#: functions/other.php:1460
+msgid "Moderate snow"
+msgstr "Moderate snow"
+
+#: functions/other.php:1464
+msgid "Patchy moderate snow"
+msgstr "Patchy moderate snow"
+
+#: functions/other.php:1468
+msgid "Light snow"
+msgstr "Light snow"
+
+#: functions/other.php:1472
+msgid "Patchy light snow"
+msgstr "Patchy light snow"
+
+#: functions/other.php:1476
+msgid "Moderate or heavy sleet"
+msgstr "Moderate or heavy sleet"
+
+#: functions/other.php:1480
+msgid "Light sleet"
+msgstr "Light sleet"
+
+#: functions/other.php:1484
+msgid "Heavy freezing drizzle"
+msgstr "Heavy freezing drizzle"
+
+#: functions/other.php:1488
+msgid "Freezing drizzle"
+msgstr "Freezing drizzle"
+
+#: functions/other.php:1492
+msgid "Light drizzle"
+msgstr "Light drizzle"
+
+#: functions/other.php:1496
+msgid "Patchy light drizzle"
+msgstr "Patchy light drizzle"
+
+#: functions/other.php:1500
+msgid "Blizzard"
+msgstr "Blizzard"
+
+#: functions/other.php:1504
+msgid "Blowing snow"
+msgstr "Blowing snow"
+
+#: functions/other.php:1508
+msgid "Moderate or heavy rain in area with thunder"
+msgstr "Moderate or heavy rain in area with thunder"
+
+#: functions/other.php:1512
+msgid "Patchy light rain in area with thunder"
+msgstr "Patchy light rain in area with thunder"
+
+#: functions/other.php:1516
+msgid "Thundery outbreaks in nearby"
+msgstr "Thunder outbreaks in nearby"
+
+#: functions/other.php:1520
+msgid "Moderate or heavy showers of ice pellets"
+msgstr "Moderate or heavy showers of ice pellets"
+
+#: functions/other.php:1524
+msgid "Light showers of ice pellets"
+msgstr "Light showers of ice pellets"
+
+#: functions/other.php:1528
+msgid "Moderate or heavy sleet showers"
+msgstr "Moderate or heavy sleet showers"
+
+#: functions/other.php:1532
+msgid "Light sleet showers"
+msgstr "Light sleet showers"
+
+#: functions/other.php:1536
+msgid "Torrential rain shower"
+msgstr "Torrential rain shower"
+
+#: functions/other.php:1540
+msgid "Moderate or heavy rain shower"
+msgstr "Moderate or heavy rain shower"
+
+#: functions/other.php:1544
+msgid "Light rain shower"
+msgstr "Light rain shower"
+
+#: functions/other.php:1548
+msgid "Moderate or Heavy freezing rain"
+msgstr "Moderate or Heavy freezing rain"
+
+#: functions/other.php:1552
+msgid "Light freezing rain"
+msgstr "Light freezing rain"
+
+#: functions/other.php:1556
+msgid "Heavy rain"
+msgstr "Heavy rain"
+
+#: functions/other.php:1560
+msgid "Heavy rain at times"
+msgstr "Heavy rain at times"
+
+#: functions/other.php:1564
+msgid "Moderate rain"
+msgstr "Moderate rain"
+
+#: functions/other.php:1568
+msgid "Moderate rain at times"
+msgstr "Moderate rain at times"
+
+#: functions/other.php:1572
+msgid "Light rain"
+msgstr "Light rain"
+
+#: functions/other.php:1576
+msgid "Patchy light rain"
+msgstr "Patchy light rain"
+
+#: functions/other.php:1580
+msgid "Patchy freezing drizzle nearby"
+msgstr "Patchy freezing drizzle nearby"
+
+#: functions/other.php:1584
+msgid "Patchy snow nearby"
+msgstr "Patchy snow nearby"
+
+#: functions/other.php:1588
+msgid "Patchy rain nearby"
+msgstr "Patchy rain nearby"
+
+#: functions/other.php:1592
+msgid "Freezing fog"
+msgstr "Freezing fog"
+
+#: functions/other.php:1596
+msgid "Fog"
+msgstr "Fog"
+
+#: functions/other.php:1600
+msgid "Mist"
+msgstr "Mist"
+
+#: functions/other.php:1604
+msgid "Overcast"
+msgstr "Overcast"
+
+#: functions/other.php:1608
+msgid "Cloudy"
+msgstr "Cloudy"
+
+#: functions/other.php:1612
+msgid "Partly Cloudy"
+msgstr "Partly Cloudy"
+
+#: functions/other.php:1616
+msgid "Sunny"
+msgstr "Sunny"
+
+#: functions/other.php:1620
+msgid "Patchy sleet nearby"
+msgstr "Patchy sleet nearby"
+
+#: functions/other.php:1624
+msgid "Can't get any data."
+msgstr "Can't get any data"
+
+#: functions/other.php:1636 functions/other.php:1648
+msgid "Something went wrong with the connection!"
+msgstr "Bağlantı sorunu"
+
+#: functions/other.php:1651
+msgid "This option doesn't work on localhost!"
+msgstr "This option doesn't work on localhost!"
+
+#: functions/other.php:1655
+msgid "Please set up your API key!"
+msgstr "Please set up your API key!"
+
+#: functions/other.php:1700
+msgid "Search Results for"
+msgstr "Search Results for"
+
+#: functions/other.php:1708
+msgid "Posts From"
+msgstr "Posts From"
+
+#: functions/other.php:1711
+msgid "Tag"
+msgstr "Etiket"
+
+#: functions/other.php:1719
+msgid "Archive"
+msgstr "Arşiv"
+
+#: functions/other.php:1859
+msgid "No Comments"
+msgstr "Yorum Yok"
+
+#: functions/other.php:1861
+msgid " Comments"
+msgstr "Yorumlar"
+
+#: functions/other.php:1863 includes/home-blocks/latest-news-1.php:57
+#: includes/home-blocks/latest-news-1.php:85
+#: includes/home-blocks/latest-news-2.php:58
+#: includes/home-blocks/latest-news-2.php:90
+#: includes/widgets/widget-novomag-latest-posts.php:114
+#: includes/widgets/widget-novomag-popular-posts.php:112
+#: includes/widgets/widget-novomag-triple.php:165
+#: includes/widgets/widget-novomag-triple.php:206
+msgid "1 Comment"
+msgstr "1 Yorum"
+
+#: functions/other.php:2352
+msgid "Author"
+msgstr "Yazar"
+
+#: functions/other.php:2355
+#, php-format
+msgid " %1$s, %2$s"
+msgstr "%1$s, %2$s "
+
+#: functions/other.php:2358
+msgid "Reply this comment"
+msgstr "Cevap Yaz"
+
+#: functions/register.php:14
+msgid "Top Menu"
+msgstr "Üst Menü"
+
+#: functions/register.php:15 includes/top.php:99 includes/top.php:109
+msgid "Main Menu"
+msgstr "Ana Menü"
+
+#: functions/register.php:16
+msgid "Footer Menu"
+msgstr "Footer Menu"
+
+#: functions/register.php:27
+msgid "Add New Item"
+msgstr "Add New Item"
+
+#: functions/register.php:28
+msgid "Edit Item"
+msgstr "Edit Item"
+
+#: functions/register.php:29
+msgid "New Gallery Item"
+msgstr "New Gallery Item"
+
+#: functions/register.php:30
+msgid "View Item"
+msgstr "View Item"
+
+#: functions/register.php:31
+msgid "Search Gallery Items"
+msgstr "Search Gallery Items"
+
+#: functions/register.php:32
+msgid "No gallery items found"
+msgstr "No gallery items found"
+
+#: functions/register.php:33
+msgid "No gallery items found in Trash"
+msgstr "No gallery items found in Trash"
+
+#: functions/register.php:64
+msgid "Types"
+msgstr "Types"
+
+#: functions/register.php:73
+msgid "Brands"
+msgstr "Brands"
+
+#: functions/register.php:82
+msgid "Retailers"
+msgstr "Retailers"
+
+#: functions/register.php:107
+msgid "The default page sidebar."
+msgstr "The default page sidebar"
+
+#: functions/register.php:108
+msgid "Footer widget area, supports up to 3 widgets."
+msgstr "Footer widget area, supports up to 3 widgets"
+
+#: functions/tax-meta-class/tax-meta-class.php:250
+msgid "Delete this image"
+msgstr "Bu resmi sil"
+
+#: functions/tax-meta-class/tax-meta-class.php:357
+msgid "Cannot delete file. Something's wrong."
+msgstr "Cannot delete file. Something's wrong"
+
+#: functions/tax-meta-class/tax-meta-class.php:596
+msgid "Add"
+msgstr "Ekle"
+
+#: functions/tax-meta-class/tax-meta-class.php:879
+msgid "Uploaded files"
+msgstr "Yüklenmiş dosyalar"
+
+#: functions/tax-meta-class/tax-meta-class.php:890
+msgid "Upload new files"
+msgstr "Upload new files"
+
+#: functions/tax-meta-class/tax-meta-class.php:896
+msgid "Add more files"
+msgstr "Add more files"
+
+#: functions/tax-meta-class/tax-meta-class.php:948
+msgid "Select a color"
+msgstr "Select a color"
+
+#: includes/news-single.php:24
+msgid "Brand:"
+msgstr "Brand:"
+
+#: includes/news-single.php:24
+msgid "Retailer:"
+msgstr "Retailer:"
+
+#: includes/news-single.php:96
+msgid "Rating"
+msgstr "Puanlama"
+
+#: includes/news-single.php:116 includes/news-single.php:133
+#: includes/home-blocks/reviews.php:57
+msgid "out of 5"
+msgstr "5 üzerinden"
+
+#: includes/news-single.php:128
+msgid "Total"
+msgstr "Toplam"
+
+#: includes/news-single.php:154
+msgid "Overview"
+msgstr "Genel Bakış"
+
+#: includes/news-single.php:178
+msgid "Release Date:"
+msgstr "Release Date:"
+
+#: includes/news-single.php:183
+msgid "Pros:"
+msgstr "Artılar:"
+
+#: includes/news-single.php:189
+msgid "Cons:"
+msgstr "Eksiler:"
+
+#: includes/news-single.php:195
+msgid "Conclusion:"
+msgstr "Sonuç:"
+
+#: includes/news-single.php:221
+msgid "Pages:"
+msgstr "Sayfalar:"
+
+#: includes/news-single.php:226
+msgid "Next page"
+msgstr "Sonraki sayfa"
+
+#: includes/news-single.php:227
+msgid "Previous page"
+msgstr "Önceki sayfa"
+
+#: includes/news-single.php:242
+msgid "Categories:"
+msgstr "Kategoriler"
+
+#: includes/theme-config.php:347
+msgid "You didn't create a slider yet."
+msgstr "You didn't create a slider yet"
+
+#: includes/theme-config.php:594
+msgid "Edit"
+msgstr "Edit"
+
+#: includes/theme-config.php:1236 includes/theme-config.php:1518
+msgid "Off"
+msgstr "Off"
+
+#: includes/theme-config.php:1362
+msgid ""
+"This options is disabled, to enable it you must set this option in <strong>theme "
+"management panel</strong> to custom."
+msgstr ""
+"his options is disabled, to enable it you must set this option in <strong>theme "
+"management panel</strong> to custom."
+
+#: includes/top.php:75
+msgid "CLICK HERE FOR ADVERTISEMENT RATES"
+msgstr "CLICK HERE FOR ADVERTISEMENT RATES"
+
+#: includes/admin/general.php:139
+msgid "Post Settings"
+msgstr "Post Settings"
+
+#: includes/admin/general.php:144
+msgid "Show post date in post lists:"
+msgstr "Show post date in post lists:"
+
+#: includes/admin/general.php:151
+msgid "Show post comment count in post lists:"
+msgstr "Show post comment count in post lists:"
+
+#: includes/admin/general.php:156
+msgid "Show post author in blog page:"
+msgstr "Show post author in blog page:"
+
+#: includes/admin/general.php:169
+msgid "Show thumbnail in open post/page"
+msgstr "Show thumbnail in open post/page"
+
+#: includes/admin/general.php:178 includes/admin/general.php:200
+#: includes/admin/general.php:222 includes/admin/general.php:244
+msgid "Custom For Each Post:"
+msgstr "Custom For Each Post:"
+
+#: includes/admin/general.php:191
+msgid "Show Post Author In Single Post"
+msgstr "Show Post Author In Single Post"
+
+#: includes/admin/general.php:213
+msgid "Show Post Date In Single Post"
+msgstr "Show Post Date In Single Post"
+
+#: includes/admin/general.php:235
+msgid "Show Post Categories In Single Post"
+msgstr "Show Post Categories In Single Post"
+
+#: includes/admin/general.php:423 includes/admin/style.php:185
+#: includes/admin/style.php:243
+msgid "Save Changes"
+msgstr "Değişiklikleri Kaydet"
+
+#: includes/admin/general.php:447
+msgid "Top Banner"
+msgstr "Top Banner"
+
+#: includes/admin/general.php:452
+msgid "Enable Banner"
+msgstr "Enable Banner"
+
+#: includes/admin/general.php:459
+msgid "Banner HTML Code"
+msgstr "Banner HTML Code"
+
+#: includes/admin/style.php:6
+msgid "Style Settings"
+msgstr "Style Settings"
+
+#: includes/admin/style.php:18
+msgid "Font Style"
+msgstr "Font Style"
+
+#: includes/admin/style.php:19
+msgid "Page Colors/Style"
+msgstr "Page Colors/Style"
+
+#: includes/admin/style.php:20
+msgid "Layout"
+msgstr "Layout"
+
+#: includes/admin/style.php:89
+msgid "Default Category/News page Color"
+msgstr "Default Category/News page Color"
+
+#: includes/admin/style.php:108
+msgid "Page Color Settings"
+msgstr "Page Color Settings"
+
+#: includes/admin/style.php:114
+msgid "Main Color Scheme:"
+msgstr "Main Color Scheme:"
+
+#: includes/admin/style.php:129
+msgid "Body Backgrounds (only boxed view)"
+msgstr "Body Backgrounds (only boxed view)"
+
+#: includes/admin/style.php:136
+msgid "Pattern:"
+msgstr "Pattern:"
+
+#: includes/admin/style.php:137
+msgid "Custom Image:"
+msgstr "Custom Image:"
+
+#: includes/admin/style.php:148
+msgid "Texture 1"
+msgstr "Texture 1"
+
+#: includes/admin/style.php:149
+msgid "Texture 2"
+msgstr "Texture 2"
+
+#: includes/admin/style.php:150
+msgid "Texture 3"
+msgstr "Texture 3"
+
+#: includes/admin/style.php:151
+msgid "Texture 4"
+msgstr "Texture 4"
+
+#: includes/admin/style.php:152
+msgid "Texture 5"
+msgstr "Texture 5"
+
+#: includes/admin/style.php:161
+msgid "Body Background Color:"
+msgstr "Body Background Color:"
+
+#: includes/admin/style.php:171
+msgid "Body Background Image:"
+msgstr "Body Background Image:"
+
+#: includes/admin/style.php:205
+msgid "Enable Responsive"
+msgstr "Enable Responsive"
+
+#: includes/admin/style.php:210
+msgid "Enable"
+msgstr "Enable"
+
+#: includes/admin/style.php:225
+msgid "Page Layout"
+msgstr "Page Layout"
+
+#: includes/admin/style.php:232
+msgid "Boxed:"
+msgstr "Boxed:"
+
+#: includes/admin/style.php:233
+msgid "Wide:"
+msgstr "Wide:"
+
+#: includes/admin/functions/default-values.php:112
+#: includes/lib/class-tgm-plugin-activation.php:155
+msgid "Install Required Plugins"
+msgstr "Install Required Plugins"
+
+#: includes/admin/functions/default-values.php:113
+#: includes/lib/class-tgm-plugin-activation.php:156
+msgid "Install Plugins"
+msgstr "Install Plugins"
+
+#: includes/admin/functions/default-values.php:114
+#: includes/lib/class-tgm-plugin-activation.php:157
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Installing Plugin: %s"
+
+#: includes/admin/functions/default-values.php:115
+msgid "Something went wrong with the plugin API."
+msgstr "Something went wrong with the plugin API."
+
+#: includes/admin/functions/default-values.php:126
+#: includes/lib/class-tgm-plugin-activation.php:169
+msgid "Return to Required Plugins Installer"
+msgstr "Return to Required Plugins Installer"
+
+#: includes/admin/functions/default-values.php:127
+#: includes/lib/class-tgm-plugin-activation.php:171
+#: includes/lib/class-tgm-plugin-activation.php:1840
+msgid "Plugin activated successfully."
+msgstr "Plugin activated successfully."
+
+#: includes/admin/functions/default-values.php:128
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr "All plugins installed and activated successfully. %s"
+
+#: includes/home-blocks/latest-news-1.php:54
+#: includes/home-blocks/latest-news-2.php:55
+msgid "by"
+msgstr "by"
+
+#: includes/home-blocks/latest-news-1.php:57
+#: includes/home-blocks/latest-news-1.php:85
+#: includes/home-blocks/latest-news-2.php:58
+#: includes/home-blocks/latest-news-2.php:90
+#: includes/widgets/widget-novomag-latest-posts.php:114
+#: includes/widgets/widget-novomag-popular-posts.php:112
+#: includes/widgets/widget-novomag-triple.php:165
+#: includes/widgets/widget-novomag-triple.php:206
+msgid "0 Comments"
+msgstr "0 Yorum"
+
+#: includes/home-blocks/latest-news-1.php:57
+#: includes/home-blocks/latest-news-1.php:85
+#: includes/home-blocks/latest-news-2.php:58
+#: includes/home-blocks/latest-news-2.php:90
+#: includes/widgets/widget-novomag-latest-posts.php:114
+#: includes/widgets/widget-novomag-popular-posts.php:112
+#: includes/widgets/widget-novomag-triple.php:165
+#: includes/widgets/widget-novomag-triple.php:206
+msgid "% Comments"
+msgstr "% Yorum"
+
+#: includes/home-blocks/latest-news-2.php:28
+msgid "Read More"
+msgstr "Devamı"
+
+#: includes/home-blocks/reviews.php:68
+msgid "Read More ..."
+msgstr "Devamı ..."
+
+#: includes/lib/class-tgm-plugin-activation.php:158
+msgid "Something went wrong."
+msgstr "Something went wrong."
+
+#: includes/lib/class-tgm-plugin-activation.php:170
+msgid "Return to the dashboard"
+msgstr "Return to the dashboard"
+
+#: includes/lib/class-tgm-plugin-activation.php:172
+msgid "The following plugin was activated successfully:"
+msgstr "The following plugin was activated successfully:"
+
+#: includes/lib/class-tgm-plugin-activation.php:173
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "All plugins installed and activated successfully. %1$s"
+
+#: includes/lib/class-tgm-plugin-activation.php:174
+msgid "Dismiss this notice"
+msgstr "Dismiss this notice"
+
+#: includes/lib/class-tgm-plugin-activation.php:1085
+msgid "External Link"
+msgstr "External Link"
+
+#: includes/lib/class-tgm-plugin-activation.php:1090
+msgid "Private Repository"
+msgstr "Private Repository"
+
+#: includes/lib/class-tgm-plugin-activation.php:1093
+msgid "Pre-Packaged"
+msgstr "Pre-Packaged"
+
+#: includes/lib/class-tgm-plugin-activation.php:1097
+msgid "WordPress Repository"
+msgstr "WordPress Repository"
+
+#: includes/lib/class-tgm-plugin-activation.php:1100
+msgid "Required"
+msgstr "Required"
+
+#: includes/lib/class-tgm-plugin-activation.php:1100
+msgid "Recommended"
+msgstr "Recommended"
+
+#: includes/lib/class-tgm-plugin-activation.php:1103
+msgid "Not Installed"
+msgstr "Not Installed"
+
+#: includes/lib/class-tgm-plugin-activation.php:1105
+msgid "Installed But Not Activated"
+msgstr "Installed But Not Activated"
+
+#: includes/lib/class-tgm-plugin-activation.php:1275
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the Dashboard"
+"\">Return to the Dashboard</a>"
+msgstr ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the Dashboard"
+"\">Return to the Dashboard</a>"
+
+#: includes/lib/class-tgm-plugin-activation.php:1291
+msgid "Plugin"
+msgstr "Plugin"
+
+#: includes/lib/class-tgm-plugin-activation.php:1292
+msgid "Source"
+msgstr "Source"
+
+#: includes/lib/class-tgm-plugin-activation.php:1293
+msgid "Type"
+msgstr "Type"
+
+#: includes/lib/class-tgm-plugin-activation.php:1294
+msgid "Status"
+msgstr "Status"
+
+#: includes/lib/class-tgm-plugin-activation.php:1312
+msgid "Install"
+msgstr "Install"
+
+#: includes/lib/class-tgm-plugin-activation.php:1313
+msgid "Activate"
+msgstr "Activate"
+
+#: includes/lib/class-tgm-plugin-activation.php:1823
+msgid "Install package not available."
+msgstr "Install package not available."
+
+#: includes/lib/class-tgm-plugin-activation.php:1824
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+
+#: includes/lib/class-tgm-plugin-activation.php:1825
+msgid "Unpacking the package&#8230;"
+msgstr "Unpacking the package&#8230;"
+
+#: includes/lib/class-tgm-plugin-activation.php:1826
+msgid "Installing the plugin&#8230;"
+msgstr "Installing the plugin&#8230;"
+
+#: includes/lib/class-tgm-plugin-activation.php:1827
+msgid "Plugin install failed."
+msgstr "Plugin install failed."
+
+#: includes/lib/class-tgm-plugin-activation.php:1828
+msgid "Plugin installed successfully."
+msgstr "Plugin installed successfully."
+
+#: includes/lib/class-tgm-plugin-activation.php:1839
+msgid "Plugin activation failed."
+msgstr "Plugin activation failed."
+
+#: includes/lib/class-tgm-plugin-activation.php:1949
+msgid ""
+"The installation and activation process is starting. This process may take a while "
+"on some hosts, so please be patient."
+msgstr ""
+"The installation and activation process is starting. This process may take a while "
+"on some hosts, so please be patient."
+
+#: includes/lib/class-tgm-plugin-activation.php:1950
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s installed and activated successfully."
+
+#: includes/lib/class-tgm-plugin-activation.php:1950
+#: includes/lib/class-tgm-plugin-activation.php:1959
+msgid "Show Details"
+msgstr "Detayları Göster"
+
+#: includes/lib/class-tgm-plugin-activation.php:1950
+#: includes/lib/class-tgm-plugin-activation.php:1959
+msgid "Hide Details"
+msgstr "Detayları Gizle"
+
+#: includes/lib/class-tgm-plugin-activation.php:1951
+msgid "All installations and activations have been completed."
+msgstr "All installations and activations have been completed."
+
+#: includes/lib/class-tgm-plugin-activation.php:1952
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+
+#: includes/lib/class-tgm-plugin-activation.php:1956
+msgid ""
+"The installation process is starting. This process may take a while on some hosts, "
+"so please be patient."
+msgstr ""
+"The installation process is starting. This process may take a while on some hosts, "
+"so please be patient."
+
+#: includes/lib/class-tgm-plugin-activation.php:1957
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "An error occurred while installing %1$s: <strong>%2$s</strong>."
+
+#: includes/lib/class-tgm-plugin-activation.php:1958
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "The installation of %1$s failed."
+
+#: includes/lib/class-tgm-plugin-activation.php:1959
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s installed successfully."
+
+#: includes/lib/class-tgm-plugin-activation.php:1960
+msgid "All installations have been completed."
+msgstr "All installations have been completed."
+
+#: includes/lib/class-tgm-plugin-activation.php:1961
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Installing Plugin %1$s (%2$d/%3$d)"
+
+#: includes/lib/class-tgm-plugin-activation.php:2052
+msgid "Return to the Dashboard"
+msgstr "Return to the Dashboard"
+
+#: includes/loop/no-post.php:16
+msgid "No Articles Found"
+msgstr "No Articles Found"
+
+#: includes/loop/no-post.php:17
+#, php-format
+msgid ""
+"Sorry, there are no articles here ! <br/>You can <a href=\"%1$s\">contact us</a> to "
+"resolve this problem !"
+msgstr ""
+"Sorry, there are no articles here ! <br/>You can <a href=\"%1$s\">contact us</a> to "
+"resolve this problem !"
+
+#: includes/loop/no-post.php:18
+#, php-format
+msgid "Or You can still <a href=\"%1$s\">go back to Homepage</a> !"
+msgstr "Or You can still <a href=\"%1$s\">go back to Homepage</a> !"
+
+#: includes/shortcodes/gallery-box.php:53
+msgid "View gallery"
+msgstr "Galeriyi Görüntüle"
+
+#: includes/shortcodes/gallery-box.php:54
+msgid "Photos"
+msgstr "Resimler"
+
+#: includes/single/about-author.php:23
+msgid "About Author"
+msgstr "Yazar Hakkında"
+
+#: includes/single/page-title.php:22
+msgid "Back to homepage"
+msgstr "Anasayfa"
+
+#: includes/single/post-related.php:35
+msgid "Related Articles"
+msgstr "Benzer Yazılar"
+
+#: includes/single/post-tags.php:11
+msgid "Tags:"
+msgstr "Etiketler:"
+
+#: includes/sliders/breaking-news.php:46
+msgid "Breaking News"
+msgstr "Breaking News"
+
+#: includes/widgets/widget-ad125x125.php:6
+msgid " Custom 125x125 Ad"
+msgstr "Custom 125x125 Ad"
+
+#: includes/widgets/widget-ad125x125.php:38
+msgid "Widget Title:"
+msgstr "Widget Title:"
+
+#: includes/widgets/widget-ad125x125.php:40
+msgid "Link 1:"
+msgstr "Link 1:"
+
+#: includes/widgets/widget-ad125x125.php:41
+msgid "Image Url 1:"
+msgstr "Image Url 1:"
+
+#: includes/widgets/widget-ad125x125.php:43
+msgid "Link 2:"
+msgstr "Link 2:"
+
+#: includes/widgets/widget-ad125x125.php:44
+msgid "Image Url 2:"
+msgstr "Image Url 2:"
+
+#: includes/widgets/widget-ad125x125.php:46
+msgid "Link 3:"
+msgstr "Link 3:"
+
+#: includes/widgets/widget-ad125x125.php:47
+msgid "Image Url 3:"
+msgstr "Image Url 3:"
+
+#: includes/widgets/widget-ad125x125.php:49
+msgid "Link 4:"
+msgstr "Link 4:"
+
+#: includes/widgets/widget-ad125x125.php:50
+msgid "Image Url 4:"
+msgstr "Image Url 4:"
+
+#: includes/widgets/widget-ad125x125.php:83 includes/widgets/widget-ad300x250.php:67
+msgid "PLACE YOUR AD HERE"
+msgstr "BURAYA REKLAM VERıN"
+
+#: includes/widgets/widget-ad125x125.php:96
+msgid "Banner"
+msgstr "Banner"
+
+#: includes/widgets/widget-ad300x250.php:35
+msgid ""
+"A widget that allows the display and configuration of of a single 300x250 Banner."
+msgstr ""
+"A widget that allows the display and configuration of of a single 300x250 Banner."
+
+#: includes/widgets/widget-ad300x250.php:41
+msgid " Custom 300x250 Ad"
+msgstr " Custom 300x250 Ad"
+
+#: includes/widgets/widget-ad300x250.php:126
+msgid "Ad image url:"
+msgstr "Ad image url:"
+
+#: includes/widgets/widget-ad300x250.php:132
+msgid "Ad link url:"
+msgstr "Ad link url:"
+
+#: includes/widgets/widget-novomag-about.php:6
+msgid "Widget With Image And Text"
+msgstr "Widget With Image And Text"
+
+#: includes/widgets/widget-novomag-about.php:29
+msgid "Choose File"
+msgstr "Choose File"
+
+#: includes/widgets/widget-novomag-about.php:31
+#: includes/widgets/widget-novomag-aweber.php:68
+msgid "Text:"
+msgstr "Text:"
+
+#: includes/widgets/widget-novomag-aweber.php:70
+msgid "Click here to get your authorization code."
+msgstr "Click here to get your authorization code."
+
+#: includes/widgets/widget-novomag-aweber.php:71
+msgid "<strong>Step 2:</strong>\tPaste in your authorization code:"
+msgstr "<strong>Step 2:</strong>\tPaste in your authorization code:"
+
+#: includes/widgets/widget-novomag-aweber.php:79
+msgid "Select the list you'd like people to subscribe to:"
+msgstr "Select the list you'd like people to subscribe to:"
+
+#: includes/widgets/widget-novomag-aweber.php:81
+msgid "Select A List"
+msgstr "Select A List"
+
+#: includes/widgets/widget-novomag-aweber.php:88
+msgid ""
+"This AWeber account does not currently have any lists or your authorization code is "
+"incorrect!"
+msgstr ""
+"This AWeber account does not currently have any lists or your authorization code is "
+"incorrect!"
+
+#: includes/widgets/widget-novomag-aweber.php:148
+msgid "Success! Everything went well, You are now subscribed !"
+msgstr "Abone oldunuz!"
+
+#: includes/widgets/widget-novomag-aweber.php:152
+msgid "Error Occurred!"
+msgstr "Hata oluştu!"
+
+#: includes/widgets/widget-novomag-aweber.php:157
+msgid "Loading.. <br/>This may take a few seconds !"
+msgstr "Yükleniyor.. <br/> Bu işlem birkaç saniye sürebilir!"
+
+#: includes/widgets/widget-novomag-aweber.php:166
+msgid "Name"
+msgstr "Ad"
+
+#: includes/widgets/widget-novomag-aweber.php:169
+msgid "E-mail address"
+msgstr "E-mail Adresi"
+
+#: includes/widgets/widget-novomag-aweber.php:172
+msgid "Subscribe"
+msgstr "Abone Ol"
+
+#: includes/widgets/widget-novomag-aweber.php:178
+msgid "There is no list selected."
+msgstr "Seçilmiş bir liste yok"
+
+#: includes/widgets/widget-novomag-gallery.php:6
+#: includes/widgets/widget-novomag-gallery.php:12
+msgid "Latest Gallery"
+msgstr "En Yeni Galeriler"
+
+#: includes/widgets/widget-novomag-gallery.php:22
+msgid "Item shown:"
+msgstr "Item shown:"
+
+#: includes/widgets/widget-novomag-gallery.php:50
+msgid "More Galleries"
+msgstr "Daha Fazla Galeri"
+
+#: includes/widgets/widget-novomag-latest-posts.php:6
+#: includes/widgets/widget-novomag-latest-posts.php:12
+msgid "Latests News"
+msgstr "En Yeni Haberler"
+
+#: includes/widgets/widget-novomag-latest-posts.php:24
+#: includes/widgets/widget-novomag-popular-posts.php:24
+#: includes/widgets/widget-novomag-reviews.php:26
+msgid "Category:"
+msgstr "Kategori:"
+
+#: includes/widgets/widget-novomag-latest-posts.php:37
+#: includes/widgets/widget-novomag-popular-posts.php:37
+#: includes/widgets/widget-novomag-reviews.php:39
+#: includes/widgets/widget-novomag-triple.php:42
+#: includes/widgets/widget-novomag-triple.php:63
+msgid "Latest News"
+msgstr "En Yeni Haberler"
+
+#: includes/widgets/widget-novomag-latest-posts.php:44
+#: includes/widgets/widget-novomag-popular-posts.php:45
+#: includes/widgets/widget-novomag-reviews.php:53
+msgid "Post count:"
+msgstr "Post count"
+
+#: includes/widgets/widget-novomag-latest-posts.php:129
+#: includes/widgets/widget-novomag-triple.php:221
+msgid "More Articles"
+msgstr "Diğer Yazılar"
+
+#: includes/widgets/widget-novomag-popular-posts.php:6
+#: includes/widgets/widget-novomag-popular-posts.php:12
+msgid "Popular Posts"
+msgstr "Popüler Yazılar"
+
+#: includes/widgets/widget-novomag-triple.php:28
+msgid "Popular Post Count:"
+msgstr "Popular Post Count:"
+
+#: includes/widgets/widget-novomag-triple.php:29
+msgid "Popular Post Category:"
+msgstr "Popüler Kategoriler"
+
+#: includes/widgets/widget-novomag-triple.php:49
+msgid "Recent Post Count:"
+msgstr "Recent Post Count:"
+
+#: includes/widgets/widget-novomag-triple.php:50
+msgid "Recent Post Category:"
+msgstr "Recent Post Category"
+
+#: includes/widgets/widget-novomag-triple.php:70
+msgid "Comment Count:"
+msgstr "Comment Count"
+
+#: includes/widgets/widget-novomag-triple.php:113
+msgid "Popular"
+msgstr "Popüler"
+
+#: includes/widgets/widget-novomag-triple.php:113
+msgid "Recent"
+msgstr "En Son"
+
+#: includes/widgets/widget-novomag-triple.php:243
+msgid "View Comment"
+msgstr "Yorumu Görüntüle"
+
+#: js/scripts.php:13 js/scripts.php:40
+msgid "You didn't enter Your First Name."
+msgstr "Adınızı girmediniz"
+
+#: js/scripts.php:15 js/scripts.php:42
+msgid "First Name is the wrong length."
+msgstr "Ad uygun uzunlukta değil"
+
+#: js/scripts.php:26 js/scripts.php:53
+msgid "You didn't enter an email address."
+msgstr "E-mail adresinizi girmediniz"
+
+#: js/scripts.php:28 js/scripts.php:55
+msgid "The email address contains illegal characters."
+msgstr "E-mail adresinde geçersiz karakterler var."
+
+#: js/scripts.php:67
+msgid "You didn't enter Your message."
+msgstr "Mesajınızı girmediniz."
+
+#: js/scripts.php:69
+msgid "The message is to short."
+msgstr "Bu mesaj çok kısa"
+
+#: js/scripts.php:77
+msgid "Please select at least one checkbox!"
+msgstr "Lütfen en az bir kutucuğu seçiniz!"
